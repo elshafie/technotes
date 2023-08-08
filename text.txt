@@ -1,0 +1,11 @@
+npm i react-router-dom
+
+npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+
+npm i @reduxjs/toolkit react-redux
+
+npm i jwt-decode
+
+npm i react-spinners
+
+npm i @fvilers/disable-react-devtools
